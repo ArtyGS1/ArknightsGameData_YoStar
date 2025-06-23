@@ -2,12 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\en_US",
-    "\\en_US\\gamedata",
-    "\\en_US\\gamedata\\levels",
-    "\\en_US\\gamedata\\levels\\activities",
-    "\\en_US\\gamedata\\story",
-    "\\en_US\\gamedata\\story\\[uc]info"
+    "\\en_US\\gamedata"
   ],
-  "SelectedNode": "\\en_US\\gamedata\\levels\\activities\\act42d0",
+  "SelectedNode": "\\en_US\\gamedata\\excel\\roguelike_topic_table.json",
   "PreviewInSolutionExplorer": false
 }
